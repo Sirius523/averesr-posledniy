@@ -1,0 +1,236 @@
+:root{
+    font-size: 16px;
+}
+.body {
+    font-family: 'Onest', sans-serif;
+}
+.menu{
+    background-color: #E8EFF5;
+    background-repeat: repeat;
+    margin: 0 auto;
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.info {
+    display: flex;
+    text-align: left;
+    padding-left: 500px;
+    align-items: flex-end;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 850px;
+    padding-right: 50px;
+}
+.menu-img {
+    padding-left: 1300px;
+    justify-content: space-between;
+}
+.menu-logo {
+    padding-left: 10%;
+}
+.zakaz {
+    margin-left: 300px;
+    font-size: 22px;
+    background-image: url(/img/zakaz.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+}
+.block {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 850px;
+    padding-right: 50px;
+    margin-top: -20px;
+}
+.katalog h1 {
+    margin-left: 880px;
+}
+.katalog-link1 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 300px;
+}
+.img1 {
+    width: 90px;
+    padding: 15px;
+    background-image: url(/img/penta.png);
+    background-repeat: no-repeat;
+}
+.katalog-link2 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 750px;
+    margin-top: -700px;
+}
+.img2 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link3 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 1200px;
+    margin-top: -700px;
+}
+.img3 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link4 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.img4 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link5 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 750px;
+    margin-top: -700px;
+}
+.img5 {
+    width: 90px;
+    padding: 15px;
+    background-image: url(/img/Polygon\ 6.png);
+    background-repeat: no-repeat;
+}
+.katalog-link6 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 1200px;
+    margin-top: -700px;
+}
+.img6 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link7 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.img7 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link8 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 750px;
+    margin-top: -700px;
+}
+.img8 {
+    width: 90px;
+    padding: 15px;
+}
+.katalog-link9 {
+    background-color: #e8eff5;
+    width: 420px;
+    height: 700px;
+    margin-left: 1200px;
+    margin-top: -700px;
+}
+.img9 {
+    width: 90px;
+    padding: 15px;
+}
+.h2 {
+    color: #000000;
+    padding: 10px;
+}
+.link {
+    display: inline-block;
+    padding: 8px 12px 7px 12px;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    margin: 15px;
+    color: #000000;
+}
+.news img{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.n1 {
+    margin-left: 150px;
+    width: 584px;
+}
+.n2 {
+    margin-top: -472px;
+    margin-left: 600px;
+}
+.n3 {
+    margin-top: -462px;
+    margin-left: 1050px;
+}
+.n4 {
+    margin-top: -477px;
+    margin-left: 1500px;
+}
+.alln {
+    text-align: center;
+    margin-top: 100px;
+}
+.vector {
+    margin-left: 900px;
+    margin-top: -70px;
+}
+.arrow {
+    margin-left: 1150px;
+    margin-top: -44px;
+}
+.news h1 {
+    margin-left: 170px;
+}
+.news h5 {
+    color: #2A79CC;
+}
+.footer {
+    margin-top: 100px;
+    height: 869px;
+    background-color: #091F3A;
+}
+.footer img{
+    margin-top: 150px;
+    margin-left: 300px;
+}
+.footer-sp {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    margin-left: 700px;
+    margin-top: -200px;
+}
+.news p{
+    color: #878C9E;
+}
+.adress {
+    color: #FFFFFF;
+    margin-left: 700px;
+    margin-top: 100px;
+}
